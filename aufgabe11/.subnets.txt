@@ -1,0 +1,2 @@
+Subnet name: polite-hen
+Subnet name: aware-hagfish
