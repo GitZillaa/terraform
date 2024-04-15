@@ -1,0 +1,4 @@
+Wie gehen man mit dem Refactoring und der Evolution von Modellen im Rahmen von DDD um?
+- Iteratives Vorgehen: Modelle werden kontinuierlich überprüft und basierend auf neuen Erkenntnissen und Anforderungen refaktoriert.
+- Engagement des Domänenexperten ist entscheidend, um sicherzustellen, dass das Modell die Domäne weiterhin akkurat repräsentiert.
+-Versionierung von APIs und Anticorruption Layers helfen beim Umgang mit Änderungen, ohne Konsumenten direkt zu beeinflussen.
